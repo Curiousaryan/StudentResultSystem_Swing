@@ -312,18 +312,7 @@ This project demonstrates practical experience with:
 
 ---
 
-# 📸 Screenshots
 
-Add screenshots for:
-
-- Home Screen
-- Teacher Dashboard
-- Student Dashboard
-- Result Entry Form
-- Result Display
-- Database Tables
-
----
 
 # 👨‍💻 Author
 
